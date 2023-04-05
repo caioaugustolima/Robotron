@@ -5,6 +5,8 @@
 | :rocket: URL | https://github.com/caioaugustolima/Robotron
 | :fire: Desafio | JavaScript - Manipulando o DOM
 
+## ![print tela robotron](https://user-images.githubusercontent.com/50187646/230139864-f7a1289f-ed4b-42a5-9986-a06d21880f43.png)
+
 # Robotron-2000 :robot:
 
 ### Aula 01: JavaScript para Web
@@ -53,7 +55,7 @@
 **O que foi feito:** 
 
 - Inclusão de botões para efetuar troca das imagens do robô na plataforma;
-- Inclusão de código para acrescentar complementos selecionados na imagem (até 4 braços já funcionando - resto do corpo em manutenção. rs);
+- Inclusão de código para acrescentar complementos selecionados na imagem (até 4 braços já funcionando - resto do corpo em manutenção. rs;
 
 
 ### :wrench:Ferramentas:
@@ -64,7 +66,7 @@ Ferramentas utilizadas para auxiliar na execução do projeto:
 
 - **Github** - Para estruturar o portfólio 
 
-## :heart:AGRADECIMENTOS:
+AGRADECIMENTOS:
 
 Instrutor:
 - [Pedro Marins](https://www.linkedin.com/in/pedromarins/);
