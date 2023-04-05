@@ -70,7 +70,7 @@ AGRADECIMENTOS:
 
 Instrutor:
 - [Pedro Marins](https://www.linkedin.com/in/pedromarins/);
-- [Alura](www.alura.com.br)   
+- [Alura](https://www.alura.com.br/)   
 
 
  <p align="center">Desenvolvido por <a href="https://github.com/caioaugustolima">Caio lima</a></p>
