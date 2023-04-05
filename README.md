@@ -69,7 +69,7 @@ Ferramentas utilizadas para auxiliar na execução do projeto:
 AGRADECIMENTOS:
 
 Instrutor:
-- [Pedro Marins](https://www.linkedin.com/in/pedromarins/);
+- [Pedro Marins](https://www.linkedin.com/in/pedromarins/)
 - [Alura](https://www.alura.com.br/)   
 
 
